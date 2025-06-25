@@ -1,0 +1,22 @@
+{
+  "Lists": [
+    {
+      "Id": 0,
+      "Name": "To-Do",
+      "Color": "Red",
+      "Date": "2025-06-24"
+    },
+    {
+      "Id": 1,
+      "Name": "Test",
+      "Color": "Test",
+      "Date": "2025-06-24"
+    },
+    {
+      "Id": 2,
+      "Name": "Grocery",
+      "Color": "Green",
+      "Date": "2025-06-24"
+    }
+  ]
+}

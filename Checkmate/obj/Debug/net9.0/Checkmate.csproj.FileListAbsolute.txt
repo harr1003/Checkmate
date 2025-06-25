@@ -1,0 +1,14 @@
+C:\Users\natal\Checkmate\Checkmate\bin\Debug\net9.0\Checkmate.exe
+C:\Users\natal\Checkmate\Checkmate\bin\Debug\net9.0\Checkmate.deps.json
+C:\Users\natal\Checkmate\Checkmate\bin\Debug\net9.0\Checkmate.runtimeconfig.json
+C:\Users\natal\Checkmate\Checkmate\bin\Debug\net9.0\Checkmate.dll
+C:\Users\natal\Checkmate\Checkmate\bin\Debug\net9.0\Checkmate.pdb
+C:\Users\natal\Checkmate\Checkmate\obj\Debug\net9.0\Checkmate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Checkmate\Checkmate\obj\Debug\net9.0\Checkmate.AssemblyInfoInputs.cache
+C:\Users\natal\Checkmate\Checkmate\obj\Debug\net9.0\Checkmate.AssemblyInfo.cs
+C:\Users\natal\Checkmate\Checkmate\obj\Debug\net9.0\Checkmate.csproj.CoreCompileInputs.cache
+C:\Users\natal\Checkmate\Checkmate\obj\Debug\net9.0\Checkmate.dll
+C:\Users\natal\Checkmate\Checkmate\obj\Debug\net9.0\refint\Checkmate.dll
+C:\Users\natal\Checkmate\Checkmate\obj\Debug\net9.0\Checkmate.pdb
+C:\Users\natal\Checkmate\Checkmate\obj\Debug\net9.0\Checkmate.genruntimeconfig.cache
+C:\Users\natal\Checkmate\Checkmate\obj\Debug\net9.0\ref\Checkmate.dll
